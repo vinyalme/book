@@ -12,3 +12,6 @@ Aspectos Básicos do Ecossistema de Fintechs e Pagamentos Digitais | FGV Educa
 Microcrédito consciente - Sebrae https://share.google/ejmGMC7gDwKawISMD
 
 Python Básico | Mackenzie https://share.google/gNlO6uZhr9l4dOtUW
+
+
+powershell -Command "[cultureinfo]::CurrentCulture.Name"
