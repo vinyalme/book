@@ -1,6 +1,6 @@
 - https://www.youtube.com/watch?v=sTkoxQzXSJE
-- https://www.youtube.com/watch?v=qtco1iMjQF8
-- https://www.youtube.com/watch?v=C9vdQOd4LAM
+- https://www.youtube.com/watch?v=qtco1iMjQF8. 
+- https://www.youtube.com/watch?v=C9vdQOd4LAM.
 - https://www.youtube.com/watch?v=ZXQR_s6FrU4
 - https://www.youtube.com/watch?v=OMbV1rIPhCg
 - https://www.youtube.com/watch?v=FaGfW6r71jk
